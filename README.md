@@ -1,5 +1,8 @@
 # mvrcentes.github.io
 
+# level 0 -> 1
+bandit0
+
 # level 1 -> 2
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
@@ -47,15 +50,14 @@ jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 # level 16 -> 17
-
+VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 # level 17 -> 18
-
+hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 # level 18 -> 19
-
+awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 
 # level 19 -> 20
+VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
-
-# level 20 -> 21

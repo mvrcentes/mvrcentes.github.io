@@ -1,0 +1,13 @@
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+}
+
+a {
+    color: rgb(120, 32, 32);
+    text-decoration: none;
+}
